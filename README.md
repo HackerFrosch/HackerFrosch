@@ -1,6 +1,6 @@
 ### 👋 Hi there, I‘m HackerFrosch!
 
-[![Discord](https://img.shields.io/badge/Discord-LoxxoHD%20%E2%86%92-gray.svg?&logo=discord&colorB=5865F2&style=for-the-badge)](https://discord.com/users/id)
+[![Discord](https://img.shields.io/badge/Discord-LoxxoHD%20%E2%86%92-gray.svg?&logo=discord&colorB=5865F2&style=for-the-badge)](discord.com/users/599205209784188939)
 
 ## I'm a young and happy Frontend Developer!!
 
@@ -28,6 +28,7 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 <br />
 <br />
@@ -35,6 +36,7 @@
 ### Current Projects
 
 - Working on my [RaMa-Portal DarkMode](https://github.com/HackerFrosch/Rama-Portal-DarkMode)
+- Working on a website for a friend :)
 
 <br />
 <br />
