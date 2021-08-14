@@ -1,7 +1,6 @@
 ### 👋 Hi there, I‘m HackerFrosch!
 
-[![Discord](https://img.shields.io/website?label=Discord&style=flat&color=5865F2&logo=discord&url=https%3A%2F%discord.com)](https://discord.com)
-
+[![Discord](https://img.shields.io/badge/Discord-LoxxoHD%20%E2%86%92-gray.svg?&logo=discord&colorB=5865F2&style=for-the-badge)](https://discord.com/users/id)
 
 ## I'm a young and happy Frontend Developer!!
 
@@ -15,9 +14,8 @@
 
 ### Conntact me:
 
-[<img align="left" alt="HackerFrosch | E-Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail.svg" />][#]
-[<img align="left" alt="HackerFrosch | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][#]
-
+<img align="left" alt="HackerFrosch‘s E-Mail" width="22px" src="https://simpleicons.org/icons/maildotru.svg" />
+<img align="left" alt="HackerFrosch’s Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 <br />
 <br />
 
@@ -42,4 +40,5 @@
 <br />
 
 ### GitHub Stats
-<img align="left" alt="HackerFrosch‘s GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=HackerFrosch&show_icons=true&hide_border=true" />
+
+[![HackerFrosch‘s GitHub stats](https://github-readme-stats.vercel.app/api?username=HackerFrosch&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
