@@ -1,16 +1,6 @@
-### 👋 Hi there, I‘m HackerFrosch!
+### 👋 Hi there, I‘m HackerFrosch! I'm a young frontend Web-Developer!
 
 [![Discord](https://img.shields.io/badge/Discord-LoxxoHD%20%E2%86%92-gray.svg?&logo=discord&colorB=5865F2&style=for-the-badge)](discord.com/users/599205209784188939)
-
-## I'm a young Frontend Developer!
-
-- 📖 I‘m currently learning React!
-- 👫🏻 I’m open for collaborations with other Developers
-- ⌨️ 2021 Goals: Programm a website for myself
-- ⚡ Fun fact: I love to play piano and games
-
-<br />
-<br />
 
 
 ## My favorite tools
